@@ -230,6 +230,10 @@
 	"Type":"series",
 	"Response":"True",
 	"Images":["https://raw.githubusercontent.com/afathurizki/gambar/master/apply_scholarship.jpg"]
+	"Rated":"TV-MA",
+	"Released":"17 Apr 2011",
+	"Runtime":"56 min",
+	"totalSeasons":"7",
 	},
 	{"Title":"Cara Melamar Beasiswa",
 	"Konten":"Untuk melamar beasiswa, dapat dilakukan dengan 6 langkah berikut:\n \n*Login pada sistem Single Sign On UI (Pastikan Anda sudah memiliki Akun UI)\n* Memilih paket beasiswa yang sesuai dengan kebutuhan Anda\n* Klik tombol "Daftar" pada paket beasiswa yang Anda pilih\n* Mengisi seluruh data yang diperlukan, kemudian mengunggah seluruh dokumen Syarat dan Ketentuan yang diminta\n* Apabila dokumen Syarat dan Ketentuan sudah Anda lengkapi, klik tombol "Kirim" pada formulir elektronik.\n* Pendaftaran Selesai. Silakan memantau status lamaran beasiswa Anda secara berkala hingga akhir masa seleksi yang telah ditentukan.\n \nPerhatikan hal-hal berikut:\n \n* Apabila Anda sudah memiliki akun UI, tidak diperlukan lagi pendaftaran login baru pada sistem Singe Sign On (SSO) UI.\n* Beberapa pelaksanaan seleksi paket beasiswa meminta Anda melakukan submisi dokumen secara fisik. Pastikan semua dokumen yang diunggah ke dalam Sistem Beasiswa adalah dokumen yang sama dengan dokumen fisik. Kekeliruan antara dokumen fisik dengan dokumen yang sudah diunggah akan sangat mempengaruhi proses seleksi.\n* Direktorat Kemahasiswaan UI siap memberikan penjelasan dan asistensi mengenai tata cara penggunaan Sistem Beasiswa.",
@@ -241,6 +245,10 @@
 	"Type":"series",
 	"Response":"True",
 	"Images":["https://raw.githubusercontent.com/afathurizki/gambar/master/document_needed.jpg"]
+	"Rated":"TV-MA",
+	"Released":"17 Apr 2011",
+	"Runtime":"56 min",
+	"totalSeasons":"7",
 	},
 	{"Title":"Cara Menjadi Donatur",
 	"Konten":"Untuk menjadi donatur beasiswa di Universitas Indonesia, dapat melakukan 3 langkah berikut:\n \n1. Daftar akun SSO UI di https://sso.ui.ac.id/account/user/register\n2. Hubungi Petugas Direktorat Kemahasiswaan (kontak E-Mail)\n3. Petugas Direktorat Kemahasiswaan akan mendaftarkan Akun Anda (Organisasi/Perorangan) ke dalam sistem beasiswa sebagai Pendonor\n \nPerhatikan hal-hal berikut:\n \n*Apabila donasi > 200 jt, diperlukan perjanjian legal dengan UI.\n* Donatur dapat bersifat Organisasi atau Perorangan.\n*Direktorat Kemahasiswaan UI siap memberikan penjelasan dan pelatihan mengenai tata cara penggunaan Sistem Beasiswa.",
@@ -252,6 +260,10 @@
 	"Type":"series",
 	"Response":"True",
 	"Images":["https://raw.githubusercontent.com/afathurizki/gambar/master/donatur.jpg"]
+	"Rated":"TV-MA",
+	"Released":"17 Apr 2011",
+	"Runtime":"56 min",
+	"totalSeasons":"7",
 	},
 	{"Title":"Frequently Ask Question (FAQ)",
 	"Konten":"FREQUENTLY ASKED QUESTION (FAQ)\n \nQ	:	Mengapa Paket Beasiswa yang ingin saya daftar belum tercantum di dalam Sistem Beasiswa UI ?\nA	:	Sebuah Paket Beasiswa yang diajukan oleh Pendonor harus di-Approve dahulu oleh Direktorat Kemahasiswaan UI. Kemungkinan besar Paket Beasiswa yang Anda cari masih menunggu Approval dan belum di-Publish di dalam Sistem.\n \nQ	:	Siapa saja sih yang bisa mendaftar Beasiswa pada Sistem ini ?\nA	:	Pendaftaran beasiswa terbuka bagi siapa saja yang memiliki Akun Single Sign On (SSO) UI. Apabila Anda adalah belum menjadi Mahasiswa UI, silakan daftar Akun SSO UI terlebih dahulu.\n \nQ	:	Saya adalah Civitas Akademika UI (Staf/Mahasiswa) dan memiliki Akun UI, mengapa terjadi error saat masuk ke dalam Sistem Beasiswa ?\nA	:	Seluruh Akun civitas Akademika UI (Staf dan Mahasiswa) menginduk pada Sistem Informasi lainnya. Akun Mahasiswa memiliki keterkaitan data dengan SIAK NG, sedangkan akun Staf memiliki keterkaitan data dengan SIPEG. Sistem Beasiswa selalu memeriksa kelengkapan data Anda pada sistem terkait. Penyelesaian hal ini adalah Anda dapat menghubungi operator Sistem Beasiswa pada Direktorat Kemahasiswaan UI.\n \nQ	:	Siapa sih pihak-pihak yang terlibat dalam proses seleksi Beasiswa ?\nA	:	Ketika periode pendaftaran telah berakhir, akan dilakukan seleksi Administratif terhadap semua data Pelamar/Pendaftar Beasiswa. Seleksi Administratif ini dilakukan oleh Pengelola (Direktorat Kemahasiswaan, Unit-unit di PAU, atau Kemahasiswaan Fakultas) untuk mengusulkan sejumlah data Pelamar/Pendaftar Beasiswa kepada Pendonor. Data yang diusulkan ini akan diseleksi mengikuti mekanisme yang ditentukan oleh Pendonor untuk kemudian ditetapkan sebagai Penerima Beasiswa.\n \nQ	:	Saya berniat menjadi Pendonor, namun saya tidak mau/tidak sempat menjalankan proses pengelolaan Paket Beasiswa menggunakan sistem ini. Bagaimana solusinya ?\nA	:	Sebuah Paket Beasiswa dapat memiliki beberapa user yang di-Assign sebagai Pendonor. Apabila diperlukan bantuan dalam pengelolaan bagi Pendonor, Anda dapat mendelegasikan role Pendonor kepada beberapa User lainnya, antara lain kepada Pengelola Paket Beasiswa yang ada di UI (contoh: Direktorat Kemahasiswaan UI/Unit-unit di UI/Kemahasiswaan Fakultas).",
@@ -263,6 +275,10 @@
 	"Type":"series",
 	"Response":"True",
 	"Images":["https://raw.githubusercontent.com/afathurizki/gambar/master/faq.jpg"]
+	"Rated":"TV-MA",
+	"Released":"17 Apr 2011",
+	"Runtime":"56 min",
+	"totalSeasons":"7",
 	},
 	{"Title":"Pembayaran Biaya Kuliah",
 	"Konten":"2011–",
